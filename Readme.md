@@ -3,8 +3,7 @@ This is a DataStructure code to implement all sorts of structure like list,stack
 
 Welcome to perfect it.
 ## Content
-[Toc]
-- List
+- [List](https://github.com/lychnin/DataStructure/tree/master/List)
 - Stack
 - Queue
 - String
